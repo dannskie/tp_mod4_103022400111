@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,7 +24,7 @@
               "RelativeDocumentMoniker": "tp_mod4_103022400111\\Program.cs",
               "ToolTip": "D:\\semester 4\\KPL\\tp_mod4_103022400111\\tp_mod4_103022400111\\Program.cs",
               "RelativeToolTip": "tp_mod4_103022400111\\Program.cs",
-              "ViewState": "AgIAADkAAAAAAAAAAAAywEoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAkwFQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-15T11:38:04.474Z",
               "EditorCaption": ""

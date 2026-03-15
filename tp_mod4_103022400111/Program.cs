@@ -63,8 +63,31 @@ public class Program
 
         Kelurahan kelurahan2 = Kelurahan.Maleer;
         Console.WriteLine("Kode Pos " + kelurahan2 + " adalah " + KodePos.getKodePos(kelurahan2));
+        
+        Kelurahan kelurahan3 = Kelurahan.Cijaura;
+        Console.WriteLine("Kode Pos " + kelurahan3 + " adalah " + KodePos.getKodePos(kelurahan3));
 
-        // Simulasi Bagian E
+        Kelurahan kelurahan4 = Kelurahan.Kujangsari;
+        Console.WriteLine("Kode Pos " + kelurahan4 + " adalah " + KodePos.getKodePos(kelurahan4));
+
+        Kelurahan kelurahan5 = Kelurahan.Kebonwaru;
+        Console.WriteLine("Kode Pos " + kelurahan5 + " adalah " + KodePos.getKodePos(kelurahan5));
+
+        Kelurahan kelurahan6 = Kelurahan.Wates;
+        Console.WriteLine("Kode Pos " + kelurahan6 + " adalah " + KodePos.getKodePos(kelurahan6));
+
+        Kelurahan kelurahan7 = Kelurahan.Sekejati;
+        Console.WriteLine("Kode Pos " + kelurahan7 + " adalah " + KodePos.getKodePos(kelurahan7));
+
+        Kelurahan kelurahan8 = Kelurahan.Mengger;
+        Console.WriteLine("Kode Pos " + kelurahan8 + " adalah " + KodePos.getKodePos(kelurahan8));
+
+        Kelurahan kelurahan9 = Kelurahan.Jatisari;
+        Console.WriteLine("Kode Pos " + kelurahan9 + " adalah " + KodePos.getKodePos(kelurahan9));
+
+        Kelurahan kelurahan10 = Kelurahan.Margasari;
+        Console.WriteLine("Kode Pos " + kelurahan10 + " adalah " + KodePos.getKodePos(kelurahan10));
+
         Console.WriteLine("\n=== IMPLEMENTASI DOOR MACHINE ===");
         DoorMachine pintu = new DoorMachine(); 
         pintu.BukaPintu();                    
